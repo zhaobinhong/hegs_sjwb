@@ -684,6 +684,10 @@ figure figcaption {
     width: 64.6%;
 }
 
+#gtco-post-list li.only-third{
+    width: 100%;
+}
+
 @media screen and (max-width: 992px) {
     #gtco-post-list li.two-third {
         width: 48%;
